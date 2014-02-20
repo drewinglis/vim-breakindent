@@ -11,4 +11,4 @@ You probably just want the patch, but you can also clone this whole repository i
 
 ## Version
 
-This version can be applied to Vim 7.4.035 and 7.4.050.
+This version can be applied to Vim 7.4.035, 7.4.050, and 7.4.183.
