@@ -9,6 +9,13 @@ You probably just want the patch, but you can also clone this whole repository i
 [patch 3]: https://groups.google.com/forum/#!msg/vim_dev/SML3mtGd50s/ICn1t1i2-kcJ
 [quilt]: http://savannah.nongnu.org/projects/quilt
 
+## Usage
+
+You can look at [my vimrc](https://github.com/drewinglis/.dotfiles/commit/50a652b6c72fb8b410a25da5170299ada71b74ae#diff-076d61938d25fd036d6436c94d8778faR26) for an example. The basic idea is:
+
+    set breakindent
+    set showbreak=\ \ " optional
+
 ## Version
 
 This version can be applied to Vim 7.4.035, 7.4.050, and 7.4.183.
