@@ -18,4 +18,4 @@ You can look at [my vimrc](https://github.com/drewinglis/.dotfiles/commit/50a652
 
 ## Version
 
-This version can be applied to Vim 7.4.035, 7.4.050, and 7.4.183.
+This version should work with Vim 7.4.x, and has been tested with 7.4.035, 7.4.050, and 7.4.183.
